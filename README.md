@@ -1,4 +1,4 @@
-# Quotation App
+# Midterm Quotation App
 
 A React-based quotation application built with Material-UI (MUI) that allows users to create and manage quotations with discount functionality.
 
@@ -26,24 +26,6 @@ A React-based quotation application built with Material-UI (MUI) that allows use
 - **Clear All Items**: Click "Clear" button to remove all items
 - **Real-time Calculations**: Automatic calculation of amounts and totals
 - **Responsive Design**: Works on desktop and mobile devices
-
-## Installation
-
-```bash
-npm install
-```
-
-## Development
-
-```bash
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
 
 ## Usage
 
